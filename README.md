@@ -9,7 +9,7 @@
 ## 🧠 Skills
 
 - 🐍 Python (Automation, Bots, AI basics)
-- 🌐 HTML / CSS / JavaScript
+- 🌐 HTML / CSS 
 - ⚙️ C# (Basics / Desktop Apps)
 - 🔧 Git & GitHub
 - 🧩 Problem Solving
