@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hi, I'm Yasin Fallahati
 
-<!--
-**yasinfallahati/yasinfallahati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 A passionate developer building projects with code & creativity  
+💻 Interested in Web Development, Python, AI & Automation  
+🎯 Always learning, always building
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+
+- 🐍 Python (Automation, Bots, AI basics)
+- 🌐 HTML / CSS / JavaScript
+- ⚙️ C# (Basics / Desktop Apps)
+- 🔧 Git & GitHub
+- 🧩 Problem Solving
+
+---
+
+## 🚀 Projects
+
+- 🤖 Telegram Bots
+- 🌍 Simple Web Apps
+- 🧠 AI / Automation Scripts
+- 🎮 Small Game Experiments
+
+---
+
+## 📊 GitHub Stats
+
+![Yasin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasinfallahati&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinfallahati&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Current Focus
+
+- Improving Python skills 🐍  
+- Building real-world projects 💡  
+- Learning AI & Automation 🤖  
+- Leveling up in Web Development 🌐  
+
+---
+
+## 📫 Contact Me
+
+- 📩 Telegram: (your id here)
+- 📷 Instagram: (your id here)
+- 💼 Open to collaboration & freelance
+
+---
+
+## ⚡ Fun Fact
+
+> "I turn coffee into code ☕💻"
+
+---
+
+⭐ Thanks for visiting my profile!
