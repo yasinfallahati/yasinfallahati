@@ -44,10 +44,8 @@
 
 ## 📫 Contact Me
 
-- 📩 Telegram: (your id here)
-- 📷 Instagram: (your id here)
-- 💼 Open to collaboration & freelance
-
+- 📩 Telegram: (@yasinfallahatiiii)
+- 📷 Instagram: (yasinfallahatiiiii)
 ---
 
 ## ⚡ Fun Fact
