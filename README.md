@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yasin%20Fallahati&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Developer%20%7C%20Builder%20%7C%20Dreamer&descSize=18&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yasin%20Fallahati&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Python%20%C2%B7%20AI%20%C2%B7%20Automation%20%7C%20Turning%20Ideas%20into%20Intelligent%20Code&descSize=18&descAlignY=58" width="100%"/>
 
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B61FF&center=true&vCenter=true&width=600&lines=print(%22Hello%2C+World!%22)+%F0%9F%91%8B;Python+%7C+Web+Dev+%7C+AI+%26+Automation;Always+Learning%2C+Always+Building+%F0%9F%9A%80;Turning+Coffee+into+Code+%E2%98%95%F0%9F%92%BB)](https://git.io/typing-svg)
