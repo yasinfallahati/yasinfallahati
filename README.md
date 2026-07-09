@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yasin%20Fallahati&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Python%20Developer%20%7C%20AI%20Engineer%20%7C%20Automation%20Specialist&descSize=18&descAlignY=58" width="100%"/>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B61FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Solutions+with+Python;Automating+the+Future+%F0%9F%A4%96;From+Ideas+to+Production-Ready+Code;Coffee+%E2%98%95+Code+%3D%3E+Magic+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B61FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Solutions+with+Python;Automating+the+Future+%F0%9F%A4%96;From+Ideas+to+Production-Ready+Code;FastAPI+%7C+Flask+%7C+n8n+Automation+Magic+%F0%9F%9A%80;Coffee+%E2%98%95+Code+%3D%3E+Magic+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -28,17 +28,18 @@ class YasinFallahati:
         self.location = "Iran 🇮🇷"
         
         self.expertise = {
-            "Backend": ["Python", "Automation", "Web Scraping"],
+            "Backend": ["Python", "FastAPI", "Flask", "Automation", "Web Scraping"],
             "Frontend": ["HTML5", "CSS3", "Responsive Design"],
             "AI & ML": ["Automation Scripts", "Bot Development", "Data Processing"],
-            "Tools": ["Git", "GitHub", "VS Code"]
+            "Automation": ["n8n Workflows", "Telegram Bots", "API Integration"],
+            "Tools": ["Git", "GitHub", "VS Code", "n8n"]
         }
         
         self.passion = "Building smart solutions that solve real problems"
         self.motto = "Keep coding, keep learning, keep shipping! 🚀"
 
     def current_mission(self):
-        return "Master Python → Build AI Projects → Create Production Apps"
+        return "Master Python → Build Production APIs → Advanced Automation → AI Integration"
     
     def say_hi(self):
         print(f"👋 Hi! I'm {self.name}, let's build something extraordinary together!")
@@ -60,16 +61,26 @@ dev.say_hi()
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### Backend Frameworks
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Automation & Integration
+![n8n](https://img.shields.io/badge/n8n-FC4D3D?style=for-the-badge&logo=n8n&logoColor=white)
+![Telegram API](https://img.shields.io/badge/Telegram_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=api&logoColor=white)
+
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Telegram API](https://img.shields.io/badge/Telegram_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 ### Specializations
 ```
-✅ Python Automation     ✅ Bot Development       ✅ Web Development
-✅ API Integration       ✅ Scripting            ✅ Problem Solving
+✅ FastAPI Development    ✅ Flask Applications     ✅ n8n Automation Workflows
+✅ Python Automation      ✅ Bot Development        ✅ Web Development
+✅ API Integration        ✅ Scripting              ✅ Problem Solving
 ```
 
 </div>
@@ -82,8 +93,10 @@ dev.say_hi()
 
 | 🔧 Category | 💼 What I Do | 🎯 Impact |
 |:---:|:---|:---|
-| **🤖 Telegram Bots** | Automated task bots with Python-telegram-bot | Real-world automation & user engagement |
-| **🌐 Web Projects** | Responsive websites with HTML/CSS | User-friendly interfaces & experiences |
+| **⚡ FastAPI Projects** | High-performance REST APIs with async support | Scalable & fast web services |
+| **🌐 Flask Applications** | Lightweight web apps & microservices | Flexible & quick prototyping |
+| **🤖 n8n Automation** | Complex workflow automation & integrations | Seamless process automation |
+| **🤖 Telegram Bots** | Automated task bots with Python-telegram-bot | Real-world automation & engagement |
 | **🧠 AI Scripts** | Automation & intelligent systems | Efficiency & problem-solving |
 | **⚙️ Backend Systems** | Python scripts & API integrations | Reliable & scalable solutions |
 | **🎮 Mini Projects** | Games & experimental prototypes | Learning & creativity |
@@ -113,33 +126,52 @@ dev.say_hi()
 ## 🎯 Current Learning Path
 
 ```
-Phase 1️⃣   → 🐍 Master Advanced Python (In Progress)
+Phase 1️⃣   → 🐍 Master Advanced Python & Web Frameworks (In Progress)
               ├─ Object-Oriented Programming ✅
-              ├─ Async/Await & Concurrency 🔄
-              └─ Advanced Automation Patterns 🔄
+              ├─ FastAPI Advanced Patterns 🔄
+              ├─ Flask & Microservices 🔄
+              └─ Async/Await & Concurrency ✅
 
-Phase 2️⃣   → 🤖 AI & Machine Learning (Next)
+Phase 2️⃣   → ⚙️ Production-Ready Automation (In Progress)
+              ├─ n8n Complex Workflows 🔄
+              ├─ API Integration & Automation 🔄
+              ├─ Database Design & Optimization 🔄
+              └─ Deployment & DevOps Basics 🔄
+
+Phase 3️⃣   → 🤖 AI & Machine Learning (Next)
               ├─ Fundamentals of ML
-              ├─ NLP & Chatbots
+              ├─ NLP & Advanced Bots
               └─ Production ML Systems
 
-Phase 3️⃣   → 🌐 Full-Stack Development (Planning)
-              ├─ Backend Frameworks
-              ├─ Database Design
-              └─ Cloud Deployment
+Phase 4️⃣   → 🌐 Full-Stack Excellence (Planning)
+              ├─ Advanced Backend Patterns
+              ├─ Cloud Deployment (Docker, Kubernetes)
+              └─ System Architecture & Scaling
 ```
 
 ---
 
-## 💡 Featured Projects
+## 💡 Featured Projects & Capabilities
 
 > 🌟 Check my repositories for more details
 
 **Popular Areas:**
+- **FastAPI APIs** - Building high-performance, async-ready REST APIs
+- **Flask Applications** - Creating flexible web applications and microservices
+- **n8n Automation** - Designing complex automation workflows & integrations
 - **Telegram Bot Automation** - Building intelligent bots that handle real tasks
 - **Web Applications** - Creating responsive and interactive web experiences
 - **Python Automation** - Scripts that save time and increase productivity
-- **AI Experiments** - Exploring the possibilities of machine learning
+- **AI Experiments** - Exploring the possibilities of machine learning and intelligent systems
+
+### 🔥 Recent Stack Additions:
+```
+🆕 FastAPI      - Modern, fast Python web framework
+🆕 Flask        - Lightweight & flexible web development
+🆕 n8n          - Low-code automation & workflow platform
+💪 Telegram Bot - Advanced bot automation with APIs
+🐍 Python       - Core language for all automation
+```
 
 ---
 
@@ -158,7 +190,9 @@ Phase 3️⃣   → 🌐 Full-Stack Development (Planning)
 <div align="center">
 
 I'm always excited to:
-- 💬 Discuss Python, AI, and automation projects
+- 💬 Discuss Python, FastAPI, Flask & automation projects
+- ⚙️ Build n8n workflows & integrations together
+- 🤖 Develop intelligent bots and automation systems
 - 🤝 Collaborate on open-source contributions
 - 📚 Share knowledge and learn together
 - 🎯 Build something amazing together
@@ -182,10 +216,12 @@ I'm always excited to:
 
 I believe in:
 - ✨ Writing clean, maintainable code
+- ⚡ Building fast, scalable solutions
 - 🚀 Shipping projects over perfection
 - 📚 Continuous learning and growth
 - 🤝 Contributing to the community
 - 💡 Solving real-world problems with code
+- 🔧 Automating everything possible
 
 </div>
 
