@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yasin%20Fallahati&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Python%20Developer%20%7C%20AI%20Engineer%20%7C%20Automation%20Specialist&descSize=18&descAlignY=58" width="100%"/>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B61FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Solutions+with+Python;Automating+the+Future+%F0%9F%A4%96;From+Ideas+to+Production-Ready+Code;FastAPI+%7C+Flask+%7C+n8n+Automation+Magic+%F0%9F%9A%80;Coffee+%E2%98%95+Code+%3D%3E+Magic+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B61FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Solutions+with+Python;Automating+the+Future+%F0%9F%A4%96;From+Ideas+to+Production-Ready+Code;FastAPI+%7C+Flask+%7C+n8n+Automation+Magic+%F0%9F%9A%80;Data+Crunching+with+NumPy+%F0%9F%94%A2;Visualizing+Data+with+Matplotlib+%F0%9F%93%8A;Coffee+%E2%98%95+Code+%3D%3E+Magic+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -30,7 +30,7 @@ class YasinFallahati:
         self.expertise = {
             "Backend": ["Python", "FastAPI", "Flask", "Automation", "Web Scraping"],
             "Frontend": ["HTML5", "CSS3", "Responsive Design"],
-            "AI & ML": ["Automation Scripts", "Bot Development", "Data Processing"],
+            "Data & AI": ["NumPy", "Matplotlib", "Automation Scripts", "Bot Development", "Data Processing"],
             "Automation": ["n8n Workflows", "Telegram Bots", "API Integration"],
             "Tools": ["Git", "GitHub", "VS Code", "n8n"]
         }
@@ -66,6 +66,10 @@ dev.say_hi()
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+### Data & Scientific Computing
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
 ### Automation & Integration
 ![n8n](https://img.shields.io/badge/n8n-FC4D3D?style=for-the-badge&logo=n8n&logoColor=white)
 ![Telegram API](https://img.shields.io/badge/Telegram_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
@@ -81,6 +85,7 @@ dev.say_hi()
 ✅ FastAPI Development    ✅ Flask Applications     ✅ n8n Automation Workflows
 ✅ Python Automation      ✅ Bot Development        ✅ Web Development
 ✅ API Integration        ✅ Scripting              ✅ Problem Solving
+✅ NumPy & Numerical Computing   ✅ Matplotlib & Data Visualization
 ```
 
 </div>
@@ -97,6 +102,8 @@ dev.say_hi()
 | **🌐 Flask Applications** | Lightweight web apps & microservices | Flexible & quick prototyping |
 | **🤖 n8n Automation** | Complex workflow automation & integrations | Seamless process automation |
 | **🤖 Telegram Bots** | Automated task bots with Python-telegram-bot | Real-world automation & engagement |
+| **🔢 NumPy & Data Processing** | Numerical computing, array operations & data analysis | Fast, efficient data handling |
+| **📊 Matplotlib Visualization** | Charts, graphs & visual data storytelling | Clear insights from raw data |
 | **🧠 AI Scripts** | Automation & intelligent systems | Efficiency & problem-solving |
 | **⚙️ Backend Systems** | Python scripts & API integrations | Reliable & scalable solutions |
 | **🎮 Mini Projects** | Games & experimental prototypes | Learning & creativity |
@@ -139,6 +146,8 @@ Phase 2️⃣   → ⚙️ Production-Ready Automation (In Progress)
               └─ Deployment & DevOps Basics 🔄
 
 Phase 3️⃣   → 🤖 AI & Machine Learning (Next)
+              ├─ NumPy Fundamentals ✅
+              ├─ Matplotlib Data Visualization ✅
               ├─ Fundamentals of ML
               ├─ NLP & Advanced Bots
               └─ Production ML Systems
@@ -162,10 +171,14 @@ Phase 4️⃣   → 🌐 Full-Stack Excellence (Planning)
 - **Telegram Bot Automation** - Building intelligent bots that handle real tasks
 - **Web Applications** - Creating responsive and interactive web experiences
 - **Python Automation** - Scripts that save time and increase productivity
+- **NumPy & Data Processing** - Efficient numerical computing and array-based data manipulation
+- **Matplotlib Visualization** - Turning raw data into clear, insightful charts and graphs
 - **AI Experiments** - Exploring the possibilities of machine learning and intelligent systems
 
 ### 🔥 Recent Stack Additions:
 ```
+🆕 Matplotlib   - Data visualization & charting
+🆕 NumPy        - Numerical computing & array operations
 🆕 FastAPI      - Modern, fast Python web framework
 🆕 Flask        - Lightweight & flexible web development
 🆕 n8n          - Low-code automation & workflow platform
@@ -193,6 +206,8 @@ I'm always excited to:
 - 💬 Discuss Python, FastAPI, Flask & automation projects
 - ⚙️ Build n8n workflows & integrations together
 - 🤖 Develop intelligent bots and automation systems
+- 🔢 Work on NumPy-powered data processing projects
+- 📊 Build data visualization dashboards with Matplotlib
 - 🤝 Collaborate on open-source contributions
 - 📚 Share knowledge and learn together
 - 🎯 Build something amazing together
