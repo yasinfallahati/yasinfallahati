@@ -188,6 +188,33 @@ Phase 4️⃣   → 🌐 Full-Stack Excellence (Planning)
 
 ---
 
+## 🏅 Certifications
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="./assets/certificate-docker-fundamentals.jpg" width="100%" alt="Docker Fundamentals Certificate"/>
+      <br/>
+      <b>Docker Fundamentals</b> — FaraDars
+      <br/>
+      <sub>Instructor: Jadi Mirmirani</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="./assets/certificate-ai-product-management.jpg" width="100%" alt="Artificial Intelligence Product Management Certificate"/>
+      <br/>
+      <b>Artificial Intelligence Product Management</b> — FaraDars
+      <br/>
+      <sub>Instructor: Dr. Mostapha Kalami Heris</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ## 💡 Featured Projects & Capabilities
 
 > 🌟 Check my repositories for more details
