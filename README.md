@@ -1,7 +1,10 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yasin%20Fallahati&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Python%20Developer%20%7C%20AI%20Engineer%20%7C%20Automation%20Specialist&descSize=18&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Yasin%20Fallahati&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Python%20Developer%20%7C%20AI%20Engineer%20%7C%20Automation%20Specialist&descSize=18&descAlignY=58" width="100%"/>
+
+<!-- Profile Views Counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=yasinfallahati&color=7B61FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B61FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Solutions+with+Python;Automating+the+Future+%F0%9F%A4%96;From+Ideas+to+Production-Ready+Code;FastAPI+%7C+Flask+%7C+n8n+Automation+Magic+%F0%9F%9A%80;Data+Crunching+with+NumPy+%F0%9F%94%A2;Visualizing+Data+with+Matplotlib+%F0%9F%93%8A;Coffee+%E2%98%95+Code+%3D%3E+Magic+%F0%9F%9A%80)](https://git.io/typing-svg)
@@ -14,9 +17,12 @@
 [![GitHub](https://img.shields.io/badge/GitHub-yasinfallahati-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yasinfallahati)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-</div>
+<br/>
 
----
+<!-- Wave divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
+
+</div>
 
 ## 🧑‍💻 Who Am I?
 
@@ -49,7 +55,9 @@ dev = YasinFallahati()
 dev.say_hi()
 ```
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/aaronsilber/aaronsilber/master/assets/lines.gif" width="100%">
+</div>
 
 ## 🛠️ Tech Stack & Skills
 
@@ -64,7 +72,6 @@ dev.say_hi()
 ### Backend Frameworks
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Data & Scientific Computing
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -79,6 +86,7 @@ dev.say_hi()
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Specializations
 ```
@@ -116,7 +124,7 @@ dev.say_hi()
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasinfallahati&show_icons=true&theme=tokyonight&border_color=7B61FF&border_radius=12&hide_border=false&card_width=500)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasinfallahati&show_icons=true&theme=tokyonight&border_color=7B61FF&border_radius=12&hide_border=false&card_width=500&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinfallahati&layout=compact&theme=tokyonight&border_color=7B61FF&border_radius=12&hide_border=false)
 
@@ -125,6 +133,26 @@ dev.say_hi()
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=yasinfallahati&theme=tokyonight&border_radius=12&border=7B61FF&fire=FF6B6B&ring=7B61FF&currStreakLabel=7B61FF)](https://github.com/yasinfallahati)
+
+</div>
+
+<div align="center">
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=yasinfallahati&theme=tokyonight&column=7&margin-w=10&margin-h=10&no-frame=true)](https://github.com/yasinfallahati)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!-- Add this repo action to auto-generate the snake: https://github.com/Platane/snk -->
+<img src="https://raw.githubusercontent.com/yasinfallahati/yasinfallahati/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
+
+<sub>⚙️ Set up automatically via the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to animate your real contribution graph</sub>
 
 </div>
 
@@ -255,6 +283,6 @@ If you found my work helpful or interesting, please consider:
 Made with ❤️ by Yasin Fallahati
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
