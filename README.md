@@ -38,7 +38,8 @@ class YasinFallahati:
             "Frontend": ["HTML5", "CSS3", "Responsive Design"],
             "Data & AI": ["NumPy", "Matplotlib", "Automation Scripts", "Bot Development", "Data Processing"],
             "Automation": ["n8n Workflows", "Telegram Bots", "API Integration"],
-            "Tools": ["Git", "GitHub", "VS Code", "n8n"]
+            "Systems": ["Linux", "Shell Scripting", "Server Administration"],
+            "Tools": ["Git", "GitHub", "VS Code", "n8n", "Linux"]
         }
         
         self.passion = "Building smart solutions that solve real problems"
@@ -82,6 +83,11 @@ dev.say_hi()
 ![Telegram API](https://img.shields.io/badge/Telegram_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=api&logoColor=white)
 
+### Operating Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -94,6 +100,7 @@ dev.say_hi()
 ✅ Python Automation      ✅ Bot Development        ✅ Web Development
 ✅ API Integration        ✅ Scripting              ✅ Problem Solving
 ✅ NumPy & Numerical Computing   ✅ Matplotlib & Data Visualization
+✅ Linux System Administration   ✅ Shell Scripting
 ```
 
 </div>
@@ -112,6 +119,7 @@ dev.say_hi()
 | **🤖 Telegram Bots** | Automated task bots with Python-telegram-bot | Real-world automation & engagement |
 | **🔢 NumPy & Data Processing** | Numerical computing, array operations & data analysis | Fast, efficient data handling |
 | **📊 Matplotlib Visualization** | Charts, graphs & visual data storytelling | Clear insights from raw data |
+| **🐧 Linux & Shell Scripting** | System administration, automation scripts & server management | Reliable, efficient system operations |
 | **🧠 AI Scripts** | Automation & intelligent systems | Efficiency & problem-solving |
 | **⚙️ Backend Systems** | Python scripts & API integrations | Reliable & scalable solutions |
 | **🎮 Mini Projects** | Games & experimental prototypes | Learning & creativity |
@@ -183,6 +191,7 @@ Phase 3️⃣   → 🤖 AI & Machine Learning (Next)
 Phase 4️⃣   → 🌐 Full-Stack Excellence (Planning)
               ├─ Advanced Backend Patterns
               ├─ Cloud Deployment (Docker, Kubernetes)
+              ├─ Linux Server Administration ✅
               └─ System Architecture & Scaling
 ```
 
@@ -228,10 +237,12 @@ Phase 4️⃣   → 🌐 Full-Stack Excellence (Planning)
 - **Python Automation** - Scripts that save time and increase productivity
 - **NumPy & Data Processing** - Efficient numerical computing and array-based data manipulation
 - **Matplotlib Visualization** - Turning raw data into clear, insightful charts and graphs
+- **Linux & Shell Scripting** - System administration, automation and server management
 - **AI Experiments** - Exploring the possibilities of machine learning and intelligent systems
 
 ### 🔥 Recent Stack Additions:
 ```
+🐧 Linux        - System administration & shell scripting
 🆕 Matplotlib   - Data visualization & charting
 🆕 NumPy        - Numerical computing & array operations
 🆕 FastAPI      - Modern, fast Python web framework
@@ -263,6 +274,7 @@ I'm always excited to:
 - 🤖 Develop intelligent bots and automation systems
 - 🔢 Work on NumPy-powered data processing projects
 - 📊 Build data visualization dashboards with Matplotlib
+- 🐧 Talk Linux, shell scripting & server management
 - 🤝 Collaborate on open-source contributions
 - 📚 Share knowledge and learn together
 - 🎯 Build something amazing together
