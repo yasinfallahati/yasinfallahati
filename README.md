@@ -35,18 +35,85 @@ Designing and shipping production-minded systems end to end: backends, pipelines
 - **Prefer simple, durable architecture.** Static output over servers when possible; self-hosted when privacy matters.
 - **Localization is a feature.** Persian/English support is built into the data and UI layers, not patched on later.
 
-## Selected work
+## Pinned systems
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**Nabz-e Farda**](https://nabz-farda.vercel.app) | Fully automated nightly Persian AI/tech/gaming news. Generates a static site and distributes to Telegram and Instagram at midnight Tehran time. | Python · n8n · Static site · Telegram |
-| [**NORA**](https://github.com/yasinfallahati/NORA) | Private LAN chat and image-generation studio. | Ollama · ComfyUI |
-| [**Voice Desk**](https://github.com/yasinfallahati/voice-desk) | Control a Linux desktop by voice via Telegram, using local speech-to-text and LLM intent parsing. | Python · Whisper · Ollama |
-| [**Fixo**](https://github.com/yasinfallahati/fixo) | AI-assisted diagnostics desk for Android repair shops over ADB. | Python · ADB · LLM |
-| [**Attendance System**](https://github.com/yasinfallahati/Attendance-system) | Face-recognition clock-in with Excel reporting. | Python · OpenCV |
-| [**Gymzo**](https://github.com/yasinfallahati/gymzo_yasin) | Club, coach, and athlete operations platform. | Next.js · Prisma |
-| [**Vexo**](https://github.com/yasinfallahati/vexoo) | Self-hosted real-time messenger. | WebSockets · Self-hosted |
-| [**Vibero**](https://github.com/yasinfallahati/vibero) | Digital health platform connecting patient, family, and doctor. | FastAPI · Next.js · Docker |
+<p align="center">
+  <img src="./assets/pinned-header.svg" alt="Pinned · Selected systems" width="100%" />
+</p>
+
+> Six production-minded builds — private AI, automation, and product surfaces. Not demos.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/yasinfallahati/NORA">
+  <img src="./assets/pin-nora.svg" alt="NORA" width="100%" />
+</a>
+
+**[NORA](https://github.com/yasinfallahati/NORA)** — air-gapped AI chat + image studio on your LAN. Models stay home.
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/yasinfallahati/voice-desk">
+  <img src="./assets/pin-voice.svg" alt="Voice Desk" width="100%" />
+</a>
+
+**[Voice Desk](https://github.com/yasinfallahati/voice-desk)** — talk to your Linux machine over Telegram. Local Whisper + Ollama, zero cloud STT.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/yasinfallahati/fixo">
+  <img src="./assets/pin-fixo.svg" alt="Fixo" width="100%" />
+</a>
+
+**[Fixo](https://github.com/yasinfallahati/fixo)** — AI bench for Android repair shops. ADB diagnostics, Wi-Fi/VPN/backup workflows.
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/yasinfallahati/Attendance-system">
+  <img src="./assets/pin-attend.svg" alt="Attendance" width="100%" />
+</a>
+
+**[Attendance](https://github.com/yasinfallahati/Attendance-system)** — face clock-in that ships Excel/CSV reports. Built for real desks, not slideware.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/yasinfallahati/todo">
+  <img src="./assets/pin-todo.svg" alt="Todo Hub" width="100%" />
+</a>
+
+**[Todo Hub](https://github.com/yasinfallahati/todo)** — goals, daily tasks, progress charts, meetings — one browser command center.
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/yasinfallahati/Yasin_information">
+  <img src="./assets/pin-portfolio.svg" alt="Portfolio" width="100%" />
+</a>
+
+**[Portfolio](https://github.com/yasinfallahati/Yasin_information)** — trilingual personal site (FA / EN / DE) on Next.js + GitHub Pages.
+
+</td>
+</tr>
+</table>
+
+### Also shipping
+
+| | |
+|---|---|
+| [**Nabz-e Farda**](https://nabz-farda.vercel.app) | Nightly Persian AI/tech/gaming news — static site + Telegram + Instagram, fully automated |
+| [**Gymzo**](https://github.com/yasinfallahati/gymzo_yasin) | Club · coach · athlete ops platform |
+| [**Vexo**](https://github.com/yasinfallahati/vexoo) | Self-hosted realtime messenger |
+| [**Vibero**](https://github.com/yasinfallahati/vibero) | Patient · family · doctor health platform |
 
 ## Technical stack
 
