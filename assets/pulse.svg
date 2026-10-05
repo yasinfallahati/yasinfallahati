@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="40" viewBox="0 0 900 40" role="img">
+  <rect width="900" height="40" fill="transparent"/>
+  <polyline fill="none" stroke="#7B61FF" stroke-width="2" points="0,20 80,20 110,8 140,32 170,12 200,28 230,20 900,20">
+    <animate attributeName="stroke-dasharray" values="0,900;900,0" dur="3s" repeatCount="indefinite"/>
+  </polyline>
+  <circle cx="140" cy="32" r="3" fill="#22D3EE">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.2s" repeatCount="indefinite"/>
+  </circle>
+</svg>
