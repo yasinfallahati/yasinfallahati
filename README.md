@@ -1,8 +1,8 @@
 <div align="center">
 
-# Yasin Falahati
+<img src="./assets/hero.svg" alt="Yasin Falahati — Software engineer" width="100%" />
 
-**Software engineer — automation, local-first AI, and bilingual product systems**
+<img src="./assets/typing.svg" alt="Automation Engineer · Local-First AI Builder · Backend · Full-Stack" width="100%" />
 
 Designing and shipping production-minded systems end to end: backends, pipelines, interfaces, and the infrastructure that keeps them running.
 
@@ -20,7 +20,7 @@ Designing and shipping production-minded systems end to end: backends, pipelines
 
 </div>
 
----
+<img src="./assets/pulse.svg" width="100%" alt="" />
 
 ## Focus
 
@@ -58,6 +58,10 @@ Designing and shipping production-minded systems end to end: backends, pipelines
 | **AI / ML** | Ollama, Whisper, ComfyUI, OpenCV |
 | **Automation** | n8n, cron-based pipelines, RSS ingestion |
 | **Infra** | Docker, Linux, Vercel, self-hosting |
+
+<p align="center"><img src="./assets/orbit.svg" width="320" alt="Tech stack orbit" /></p>
+
+<img src="./assets/pulse.svg" width="100%" alt="" />
 
 ## Contact
 
