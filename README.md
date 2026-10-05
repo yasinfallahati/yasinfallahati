@@ -1,92 +1,92 @@
 <div align="center">
 
-<img src="./assets/hero.png" alt="Yasin Falahati" width="100%" />
+# Yasin Falahati
 
-<img src="./assets/typing.svg" alt="Roles typing" width="100%" />
+**Software engineer — automation, local-first AI, and bilingual product systems**
 
-<br/>
+Designing and shipping production-minded systems end to end: backends, pipelines, interfaces, and the infrastructure that keeps them running.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-profileyasin.vercel.app-7B61FF?style=for-the-badge)](https://profileyasin.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-fallahatiyasin829%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fallahatiyasin829@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-yasinfallahati-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yasinfallahati)
+[Portfolio](https://profileyasin.vercel.app/) · [Email](mailto:fallahatiyasin829@gmail.com) · [GitHub](https://github.com/yasinfallahati)
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white">
-<img src="https://img.shields.io/badge/Ollama-111?style=flat-square">
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white">
-</p>
-
-<img src="./assets/pulse.svg" width="100%" alt="" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-111?style=flat-square)
 
 </div>
-
-> **Builder from Iran.** I ship automation pipelines, local-first AI desks, and bilingual product systems — for newsrooms, repair shops, gyms, and health workflows — not disposable demos.
-
-<details open>
-<summary><strong>🇬🇧 English — who I am</strong></summary>
-
-<br/>
-
-I work end-to-end: Python backends & bots, n8n workflows, Next.js/TypeScript UIs, OpenCV/Whisper/Ollama on the metal, and static news machines that publish themselves at midnight Tehran time.
-
-### Selected ships
-
-| | Project | One-liner |
-|---:|---|---|
-| 📰 | [Nabz-e Farda](https://nabz-farda.vercel.app) | Nightly Persian AI/tech/gaming news — static + Telegram/Instagram |
-| 🧠 | [NORA](https://github.com/yasinfallahati/NORA) | Private LAN chat & image studio (Ollama / ComfyUI) |
-| 🎤 | [Voice Desk](https://github.com/yasinfallahati/voice-desk) | Telegram → Linux with local Whisper + Ollama |
-| 📱 | [Fixo](https://github.com/yasinfallahati/fixo) | ADB AI desk for Android repair counters |
-| 👁️ | [Attendance](https://github.com/yasinfallahati/Attendance-system) | Face-recognition clock-in + Excel |
-| 🏋️ | [Gymzo](https://github.com/yasinfallahati/gymzo_yasin) | Club / coach / athlete ops (Next.js + Prisma) |
-| 💬 | [Vexo](https://github.com/yasinfallahati/vexoo) | Self-hosted realtime messenger |
-| 🩺 | [Vibero](https://github.com/yasinfallahati/vibero) | Patient · family · doctor digital health |
-
-<p align="center"><img src="./assets/orbit.svg" width="260" alt="Tech orbit"></p>
-
-**Contact:** [fallahatiyasin829@gmail.com](mailto:fallahatiyasin829@gmail.com) · [portfolio](https://profileyasin.vercel.app/)
-
-</details>
 
 ---
 
-<details open>
-<summary><strong>🇮🇷 فارسی — من کیستم؟</strong></summary>
+## Focus
 
-<br/>
+- **Automation & data pipelines** — scheduled, self-publishing systems with no manual steps (RSS → processing → static site → Telegram / Instagram).
+- **Local-first AI** — private LLM, speech, and vision workloads running on your own hardware (Ollama, Whisper, ComfyUI, OpenCV), with no data leaving the machine.
+- **Product engineering** — multi-role web platforms (admin / coach / athlete / patient / doctor) with clean data models and RTL-aware, bilingual UX.
 
-من **یاسین فلاحتی** هستم؛ روی **اتوماسیون**، **ابزارهای AI محلی** و **سیستم‌های محصول دوزبانه** کار می‌کنم — برای تحریریه، تعمیرگاه، باشگاه و سلامت دیجیتال؛ نه دموهایی که در پوشه می‌میرند.
+## Engineering principles
 
-### مسیر کار
+- **Ship to production, not to a folder.** Every project here runs for a real user or workflow.
+- **Own the whole stack.** API design, data modeling, UI, deployment, and observability.
+- **Prefer simple, durable architecture.** Static output over servers when possible; self-hosted when privacy matters.
+- **Localization is a feature.** Persian/English support is built into the data and UI layers, not patched on later.
 
-| حوزه | نمونه واقعی |
-|------|-------------|
-| خبر و انتشار | نبض فردا — RSS شبانه → سایت استاتیک → تلگرام/اینستا |
-| AI خصوصی | نورا، ویس‌دسک، فیکسو |
-| محصول وب | جیمزو، وکسو، ویبرو |
-| دسکتاپ | حضور و غیاب چهره، نوبت‌دهی، بازی‌ها و ماشین‌حساب‌ها |
+## Selected work
 
-### پروژه‌های منتخب (فارسی)
+| Project | What it does | Stack |
+|---|---|---|
+| [**Nabz-e Farda**](https://nabz-farda.vercel.app) | Fully automated nightly Persian AI/tech/gaming news. Generates a static site and distributes to Telegram and Instagram at midnight Tehran time. | Python · n8n · Static site · Telegram |
+| [**NORA**](https://github.com/yasinfallahati/NORA) | Private LAN chat and image-generation studio. | Ollama · ComfyUI |
+| [**Voice Desk**](https://github.com/yasinfallahati/voice-desk) | Control a Linux desktop by voice via Telegram, using local speech-to-text and LLM intent parsing. | Python · Whisper · Ollama |
+| [**Fixo**](https://github.com/yasinfallahati/fixo) | AI-assisted diagnostics desk for Android repair shops over ADB. | Python · ADB · LLM |
+| [**Attendance System**](https://github.com/yasinfallahati/Attendance-system) | Face-recognition clock-in with Excel reporting. | Python · OpenCV |
+| [**Gymzo**](https://github.com/yasinfallahati/gymzo_yasin) | Club, coach, and athlete operations platform. | Next.js · Prisma |
+| [**Vexo**](https://github.com/yasinfallahati/vexoo) | Self-hosted real-time messenger. | WebSockets · Self-hosted |
+| [**Vibero**](https://github.com/yasinfallahati/vibero) | Digital health platform connecting patient, family, and doctor. | FastAPI · Next.js · Docker |
 
-- **نبض فردا** — خبر فارسی AI/تک/گیم هر شب بدون سرور اپلیکیشن  
-- **NORA** — چت و تصویر روی LAN خودتان  
-- **Voice Desk** — فرمان دسکتاپ لینوکس از تلگرام با Whisper محلی  
-- **Fixo** — میزکار تعمیر اندروید با ADB  
-- **Gymzo / Vexo / Vibero** — باشگاه، پیام‌رسان، سلامت دیجیتال  
+## Technical stack
 
-**ارتباط:** [ایمیل](mailto:fallahatiyasin829@gmail.com) · [پورتفolio](https://profileyasin.vercel.app/)
+| Area | Tools |
+|---|---|
+| **Backend** | Python, FastAPI, REST APIs, Telegram Bot API |
+| **Frontend** | Next.js, TypeScript, React, Tailwind CSS |
+| **Data** | PostgreSQL, Prisma, SQLite |
+| **AI / ML** | Ollama, Whisper, ComfyUI, OpenCV |
+| **Automation** | n8n, cron-based pipelines, RSS ingestion |
+| **Infra** | Docker, Linux, Vercel, self-hosting |
 
-</details>
+## Contact
 
-<div align="center">
+Open to collaboration on automation, AI tooling, and product builds.
 
-<br/>
+- Email: [fallahatiyasin829@gmail.com](mailto:fallahatiyasin829@gmail.com)
+- Portfolio: [profileyasin.vercel.app](https://profileyasin.vercel.app/)
 
-`automation` · `local-ai` · `fastapi` · `nextjs` · `persian` · `telegram` · `opencv` · `self-hosted`
+---
+
+<details>
+<summary><strong>🇮🇷 فارسی</strong></summary>
+
+<div dir="rtl">
+
+### یاسین فلاحتی
+
+مهندس نرم‌افزار؛ تمرکز روی **اتوماسیون**، **هوش مصنوعی محلی** و **سیستم‌های محصول دوزبانه**. پروژه‌هایی که واقعاً اجرا می‌شوند و برای تحریریه، تعمیرگاه، باشگاه و سلامت دیجیتال کار می‌کنند.
+
+**نمونه کارها**
+
+- **نبض فردا** — خبر فارسی AI/تک/گیم هر شب، کاملاً خودکار و بدون سرور اپلیکیشن
+- **NORA** — چت و تولید تصویر خصوصی روی شبکه محلی
+- **Voice Desk** — کنترل دسکتاپ لینوکس از تلگرام با Whisper محلی
+- **Fixo** — میزکار هوشمند تعمیر اندروید با ADB
+- **Gymzo / Vexo / Vibero** — پلتفرم باشگاه، پیام‌رسان و سلامت دیجیتال
+
+**ارتباط:** [ایمیل](mailto:fallahatiyasin829@gmail.com) · [پورتفولیو](https://profileyasin.vercel.app/)
 
 </div>
+
+</details>
